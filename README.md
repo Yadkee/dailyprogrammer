@@ -20,3 +20,8 @@
 
   * [[2018-02-16]](https://www.reddit.com/r/dailyprogrammer/comments/7xyi2w/20180216_challenge_351_hard_star_battle_solver/
  "Problem post at reddit") - [Challenge #351 [Hard] Star Battle solver](../master/problems/[2018-02-16]%20Challenge%20%23351%20[Hard]%20Star%20Battle%20solver.py)
+
+  * # Challenge #354
+    * ## [<font color = "#ffa500">[2018-03-16]</font>](link.com) - [<font color="#ffd700">[Hard] Integer Complexity 3</font>](link.es)
+    * ## [<font color = "#ffa500">[2018-03-14]</font>](link.com) - [<font color="#c0c0c0">[Intermediate] Integer Complexity 2</font>](link.es)
+    * ## [<font color = "#ffa500">[2018-03-12]</font>](link.com) - [<font color="#cd7f32">[Easy] Integer Complexity 1</font>](link.es)
