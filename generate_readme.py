@@ -9,7 +9,7 @@ bannerUrl = "https://www.reddit.com/r/dailyprogrammer/"
 text = []
 text.append('[![dailyprogrammer banner](%s "r/dailyprogrammer")](%s)' %
             (bannerImg, bannerUrl))
-relHeader = "../master/problems/"
+relHeader = "./problems/"
 for path in problems:
     pText = []
     date, name = path.rstrip(".py").split(" ", 1)
