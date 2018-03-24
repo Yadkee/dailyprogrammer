@@ -18,5 +18,8 @@
   * [[2018-03-05]](https://www.reddit.com/r/dailyprogrammer/comments/826coe/20180305_challenge_353_easy_closest_string/
  "Problem post at reddit") - [Challenge #353 [Easy] Closest String](../master/problems/[2018-03-05]%20Challenge%20%23353%20[Easy]%20Closest%20String.py)
 
+  * [[2018-02-20]](https://www.reddit.com/r/dailyprogrammer/comments/7yyt8e/20180220_challenge_352_easy_making_imgurstyle/
+ "Problem post at reddit") - [Challenge #352 [Easy] Making Imgur-style Links](../master/problems/[2018-02-20]%20Challenge%20%23352%20[Easy]%20Making%20Imgur-style%20Links.py)
+
   * [[2018-02-16]](https://www.reddit.com/r/dailyprogrammer/comments/7xyi2w/20180216_challenge_351_hard_star_battle_solver/
  "Problem post at reddit") - [Challenge #351 [Hard] Star Battle solver](../master/problems/[2018-02-16]%20Challenge%20%23351%20[Hard]%20Star%20Battle%20solver.py)
