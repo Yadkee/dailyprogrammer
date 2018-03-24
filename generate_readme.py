@@ -20,6 +20,6 @@ for path in problems:
         url = f.readline().lstrip("# ")
     pText.append('  * [%s](%s "Problem post at reddit")' % (date, url))
     pText.append("[%s](%s)" % (name, relPath))
-    text.append(" - ".join(pText))
+    text.append(" __**-**__ ".join(pText))
 with open("README.md", "w") as f:
     f.write("\n\n".join(text))
