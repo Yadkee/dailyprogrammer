@@ -1,7 +1,7 @@
 # [dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
   * [2018-02-16] Challenge #351 [Hard] Star Battle solver
-([CODE](../problems/[2018-02-16] Challenge #351 [Hard] Star Battle solver.py) &
+([CODE]("../problems/[2018-02-16] Challenge #351 [Hard] Star Battle solver.py") &
 [LINK](https://www.reddit.com/r/dailyprogrammer/comments/7xyi2w/20180216_challenge_351_hard_star_battle_solver/ "Problem post at reddit"))
 
   * [2018-03-12] Challenge #354 [Easy] Integer Complexity 1 
