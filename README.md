@@ -1,4 +1,5 @@
-# [dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
+![alt text]( "Logo Title Text 1")
+[![dailyprogrammer](https://f.thumbs.redditmedia.com/_23zdeL5L1OqQyIw.png "r/dailyprogrammer")](https://www.reddit.com/r/dailyprogrammer/)
 
   * [2018-02-16] Challenge #351 [Hard] Star Battle solver
 ([CODE](../master/problems/[2018-02-16]%20Challenge%20%23351%20[Hard]%20Star%20Battle%20solver.py) &
