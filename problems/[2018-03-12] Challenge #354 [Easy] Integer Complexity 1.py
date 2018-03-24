@@ -1,5 +1,6 @@
 #! python3
 # -*- coding: utf-8 -*-
+# https://www.reddit.com/r/dailyprogrammer/comments/83uvey/20180312_challenge_354_easy_integer_complexity_1/
 from functools import reduce
 from operator import mul
 from itertools import count
@@ -33,7 +34,7 @@ def factors(n):
 # f = factors(1234567891011)
 f = [int(i) for i in "3*3*3*53*79*1667*20441*19646663*89705489".split("*")]
 # Extended way:
-possibilities = [1 + prod(f)]
+possibilities = [prod(f)]
 for i in range(len(f)):
     for j in range(i + 1, len(f) + 1):
         possibilities.append(prod(f[:i] + f[j:]) + prod(f[i:j]))
