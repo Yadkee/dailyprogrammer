@@ -4,6 +4,10 @@
 ([CODE](../master/problems/[2018-02-16]%20Challenge%20%23351%20[Hard]%20Star%20Battle%20solver.py) &
 [LINK](https://www.reddit.com/r/dailyprogrammer/comments/7xyi2w/20180216_challenge_351_hard_star_battle_solver/ "Problem post at reddit"))
 
+  * [2018-03-07] Challenge #353 [Intermediate]
+([CODE](../master/problems/[2018-03-07]%20Challenge%20%23353%20[Intermediate].py) &
+[LINK](https://www.reddit.com/r/dailyprogrammer/comments/82pt3h/20180307_challenge_353_intermediate/ "Problem post at reddit"))
+
   * [2018-03-12] Challenge #354 [Easy] Integer Complexity 1 
 ([CODE](../master/problems/[2018-03-12]%20Challenge%20%23354%20[Easy]%20Integer%20Complexity%201.py) & [LINK](https://www.reddit.com/r/dailyprogrammer/comments/83uvey/20180312_challenge_354_easy_integer_complexity_1/ "Problem post at reddit"))
 
