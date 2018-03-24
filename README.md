@@ -4,6 +4,10 @@
 ([CODE](../master/problems/[2018-02-16]%20Challenge%20%23351%20[Hard]%20Star%20Battle%20solver.py) &
 [LINK](https://www.reddit.com/r/dailyprogrammer/comments/7xyi2w/20180216_challenge_351_hard_star_battle_solver/ "Problem post at reddit"))
 
+  * [2018-03-05] Challenge #353 [Easy] Closest String
+([CODE](../master/problems/[2018-03-05]%20Challenge%20%23353%20[Easy]%20Closest%20String.py) &
+[LINK](https://www.reddit.com/r/dailyprogrammer/comments/826coe/20180305_challenge_353_easy_closest_string/ "Problem post at reddit"))
+
   * [2018-03-07] Challenge #353 [Intermediate]
 ([CODE](../master/problems/[2018-03-07]%20Challenge%20%23353%20[Intermediate].py) &
 [LINK](https://www.reddit.com/r/dailyprogrammer/comments/82pt3h/20180307_challenge_353_intermediate/ "Problem post at reddit"))
