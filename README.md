@@ -18,6 +18,9 @@
   * [[2018-03-05]](https://www.reddit.com/r/dailyprogrammer/comments/826coe/20180305_challenge_353_easy_closest_string/
  "Problem post at reddit") - [Challenge #353 [Easy] Closest String](../master/problems/[2018-03-05]%20Challenge%20%23353%20[Easy]%20Closest%20String.py)
 
+  * [[2018-02-23]](https://www.reddit.com/r/dailyprogrammer/comments/7zriir/20180223_challenge_352_hard_well_well_well/
+ "Problem post at reddit") - [Challenge #352 [Hard] Well, Well, Well](../master/problems/[2018-02-23]%20Challenge%20%23352%20[Hard]%20Well,%20Well,%20Well.py)
+
   * [[2018-02-21]](https://www.reddit.com/r/dailyprogrammer/comments/7z8hrm/20180221_challenge_352_intermediate_7_wonders/
  "Problem post at reddit") - [Challenge #352 [Intermediate] 7 Wonders Resource Allocation](../master/problems/[2018-02-21]%20Challenge%20%23352%20[Intermediate]%207%20Wonders%20Resource%20Allocation.py)
 
