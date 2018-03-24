@@ -8,11 +8,12 @@ text.append('[![dailyprogrammer banner](%s "r/dailyprogrammer")](%s)' %
             (bannerImg, bannerUrl))
 
 problemPath = join(".", "problems")
+githubPath = join("..", "master", "problems")
 problems = tuple(sorted(listdir(path=problemPath), reverse=True))
 for path in problems:
     pText = []
     date, name = path.rstrip(".py").split(" ", 1)
-    relPath = join(problemPath, path.replace(" ", "%20").replace("#", "%23"))
+    relPath = join(githubPath, path.replace(" ", "%20").replace("#", "%23"))
     with open(join(problemPath, path)) as f:
         f.readline()
         url = f.readline().lstrip("# ")
