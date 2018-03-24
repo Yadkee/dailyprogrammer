@@ -1,5 +1,4 @@
 #! python3
-# -*- coding: utf-8 -*-
 # https://www.reddit.com/r/dailyprogrammer/comments/83uvey/20180312_challenge_354_easy_integer_complexity_1/
 from functools import reduce
 from operator import mul

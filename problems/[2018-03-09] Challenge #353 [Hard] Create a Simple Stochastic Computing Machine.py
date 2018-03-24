@@ -1,5 +1,4 @@
 #! python3
-# -*- coding: utf-8 -*-
 # https://www.reddit.com/r/dailyprogrammer/comments/83754b/20180309_challenge_353_hard_create_a_simple/
 """Only implemented sum, multiplication and inversion.
 Made use of classes and operator override."""

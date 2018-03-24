@@ -1,5 +1,4 @@
 #! python3
-# -*- coding: utf-8 -*-
 # https://www.reddit.com/r/dailyprogrammer/comments/84f35x/20180314_challenge_354_intermediate_integer/
 from math import sqrt
 pc = {0: 0, 1: 1, 2: 2, 3: 3}  # Precalculated values

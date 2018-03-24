@@ -1,5 +1,4 @@
 #! python3
-# -*- coding: utf-8 -*-
 # https://www.reddit.com/r/dailyprogrammer/comments/7xyi2w/20180216_challenge_351_hard_star_battle_solver/
 from itertools import product
 from string import ascii_uppercase as ABC
