@@ -1,4 +1,3 @@
-![alt text]( "Logo Title Text 1")
 [![dailyprogrammer](https://f.thumbs.redditmedia.com/_23zdeL5L1OqQyIw.png "r/dailyprogrammer")](https://www.reddit.com/r/dailyprogrammer/)
 
   * [2018-02-16] Challenge #351 [Hard] Star Battle solver
