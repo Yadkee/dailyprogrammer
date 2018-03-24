@@ -9,6 +9,10 @@
   * [2018-03-12] Challenge #354 [Easy] Integer Complexity 1 
 ([CODE](../master/problems/[2018-03-12]%20Challenge%20%23354%20[Easy]%20Integer%20Complexity%201.py) & [LINK](https://www.reddit.com/r/dailyprogrammer/comments/83uvey/20180312_challenge_354_easy_integer_complexity_1/ "Problem post at reddit"))
 
+  * [2018-03-09] Challenge #353 [Hard] Create a Simple Stochastic Computing Machine
+([CODE](../master/problems/[2018-03-09]%20Challenge%20%23353%20[Hard]%20Create%20a%20Simple%20Stochastic%20Computing%20Machine.py) &
+[LINK](https://www.reddit.com/r/dailyprogrammer/comments/83754b/20180309_challenge_353_hard_create_a_simple/ "Problem post at reddit"))
+
   * [2018-03-07] Challenge #353 [Intermediate]
 ([CODE](../master/problems/[2018-03-07]%20Challenge%20%23353%20[Intermediate].py) &
 [LINK](https://www.reddit.com/r/dailyprogrammer/comments/82pt3h/20180307_challenge_353_intermediate/ "Problem post at reddit"))
