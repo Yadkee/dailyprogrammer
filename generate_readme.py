@@ -16,7 +16,6 @@ for path in problems:
     relPath = relHeader + path.replace(" ", "%20").replace("#", "%23")
     with open(join(problemPath, path)) as f:
         f.readline()
-        f.readline()
         url = f.readline().lstrip("# ")
     pText.append('  * [%s](%s "Problem post at reddit")' % (date, url))
     pText.append("[%s](%s)" % (name, relPath))
