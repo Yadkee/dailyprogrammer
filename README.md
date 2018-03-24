@@ -32,3 +32,6 @@
 
   * [[2018-02-14]](https://www.reddit.com/r/dailyprogrammer/comments/7xkhar/20180214_challenge_351_intermediate_permutation/
  "Problem post at reddit") - [Challenge #351 [Intermediate] Permutation madness](./problems/[2018-02-14]%20Challenge%20%23351%20[Intermediate]%20Permutation%20madness.py)
+
+  * [[2018-02-13]](https://www.reddit.com/r/dailyprogrammer/comments/7x81yg/20180213_challenge_351_easy_cricket_scoring/
+ "Problem post at reddit") - [Challenge #351 [Easy] Cricket Scoring](./problems/[2018-02-13]%20Challenge%20%23351%20[Easy]%20Cricket%20Scoring.py)
