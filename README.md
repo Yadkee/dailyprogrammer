@@ -1,5 +1,8 @@
 [![dailyprogrammer banner](https://f.thumbs.redditmedia.com/_23zdeL5L1OqQyIw.png "r/dailyprogrammer")](https://www.reddit.com/r/dailyprogrammer/)
 
+  * [[2018-03-26]](https://www.reddit.com/r/dailyprogrammer/comments/879u8b/20180326_challenge_355_easy_alphabet_cipher/
+ "Problem post at reddit") - [Challenge #355 [Easy] Alphabet Cipher](/problems/[2018-03-26]%20Challenge%20%23355%20[Easy]%20Alphabet%20Cipher.py)
+
   * [[2018-03-16]](https://www.reddit.com/r/dailyprogrammer/comments/84uk5v/20180316_challenge_354_hard_integer_complexity_3/
  "Problem post at reddit") - [Challenge #354 [Hard] Integer Complexity 3](/problems/[2018-03-16]%20Challenge%20%23354%20[Hard]%20Integer%20Complexity%203.py)
 
