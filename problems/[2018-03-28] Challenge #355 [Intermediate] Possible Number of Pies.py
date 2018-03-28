@@ -26,7 +26,7 @@ def solve(ing, hist=[]):
             if s:
                 possible.append(s)
     if possible:
-        return max(possible, key=lambda x: len(x[1]))
+        return max(possible, key=lambda x: (len(x[1]), sum(x[0])))
     return (ing, hist)
 
 
