@@ -8,12 +8,7 @@ def distance(s1, s2):
 
 def solve(s):
     lst = tuple(s[1:].splitlines())  # List of strings
-    mn = (len(lst[0]) * len(lst), "")  # Minimum value
-    for i in lst:
-        dist = sum(distance(i, j) for j in lst)
-        if dist < mn[0]:
-            mn = (dist, i)
-    return mn[1]
+    return min(lst, key=lambda x: sum(distance(x, j) for j in lst))
 
 
 print(solve("""
