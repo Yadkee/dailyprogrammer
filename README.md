@@ -1,5 +1,8 @@
 [![dailyprogrammer banner](https://f.thumbs.redditmedia.com/_23zdeL5L1OqQyIw.png "r/dailyprogrammer")](https://www.reddit.com/r/dailyprogrammer/)
 
+  * [[2018-03-28]](https://www.reddit.com/r/dailyprogrammer/comments/87rz8c/20180328_challenge_355_intermediate_possible/
+ "Problem post at reddit") - [Challenge #355 [Intermediate] Possible Number of Pies](/problems/[2018-03-28]%20Challenge%20%23355%20[Intermediate]%20Possible%20Number%20of%20Pies.py)
+
   * [[2018-03-26]](https://www.reddit.com/r/dailyprogrammer/comments/879u8b/20180326_challenge_355_easy_alphabet_cipher/
  "Problem post at reddit") - [Challenge #355 [Easy] Alphabet Cipher](/problems/[2018-03-26]%20Challenge%20%23355%20[Easy]%20Alphabet%20Cipher.py)
 
