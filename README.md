@@ -41,3 +41,6 @@
 
   * [[2018-02-13]](https://www.reddit.com/r/dailyprogrammer/comments/7x81yg/20180213_challenge_351_easy_cricket_scoring/
  "Problem post at reddit") - [Challenge #351 [Easy] Cricket Scoring](/problems/[2018-02-13]%20Challenge%20%23351%20[Easy]%20Cricket%20Scoring.py)
+
+  * [[2018-01-22]](https://www.reddit.com/r/dailyprogrammer/comments/7s888w/20180122_challenge_348_easy_the_rabbit_problem/
+ "Problem post at reddit") - [Challenge #348 [Easy] The rabbit problem](/problems/[2018-01-22]%20Challenge%20%23348%20[Easy]%20The%20rabbit%20problem.py)
