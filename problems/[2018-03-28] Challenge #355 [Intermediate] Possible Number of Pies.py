@@ -19,9 +19,7 @@ def solve(ing, hist=[]):
     for r in recipes:
         if can_bake(ing, r):
             testIng = bake(ing, r)
-            s = solve(testIng, hist + [r])
-            if s:
-                possible.append(s)
+            possible.append(solve(testIng, hist + [r]))
     if possible:
         return max(possible, key=lambda x: (len(x[1]), sum(x[0])))
     return (ing, hist)
