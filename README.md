@@ -44,3 +44,6 @@
 
   * [[2018-01-22]](https://www.reddit.com/r/dailyprogrammer/comments/7s888w/20180122_challenge_348_easy_the_rabbit_problem/
  "Problem post at reddit") - [Challenge #348 [Easy] The rabbit problem](/problems/[2018-01-22]%20Challenge%20%23348%20[Easy]%20The%20rabbit%20problem.py)
+
+  * [[2014-02-06]](https://www.reddit.com/r/dailyprogrammer/comments/271xyp/622014_challenge_165_easy_ascii_game_of_life/
+ "Problem post at reddit") - [Challenge #165 [Easy] ASCII Game of Life](/problems/[2014-02-06]%20Challenge%20%23165%20[Easy]%20ASCII%20Game%20of%20Life.py)
