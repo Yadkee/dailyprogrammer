@@ -7,10 +7,7 @@ recipes = {pump: "pumpkin", pie: "apple"}
 
 
 def can_bake(ing, recipe):
-    for i, j in zip(ing, recipe):
-        if i < j:
-            return False
-    return True
+    return not any(i < j for i, j in zip(ing, recipe))
 
 
 def bake(ing, recipe):
