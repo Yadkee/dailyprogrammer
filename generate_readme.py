@@ -6,6 +6,7 @@ bannerUrl = "https://www.reddit.com/r/dailyprogrammer/"
 text = []
 text.append('[![dailyprogrammer banner](%s "r/dailyprogrammer")](%s)' %
             (bannerImg, bannerUrl))
+text.append(" POST LINK - PROBLEM CODE")
 
 problemPath = join(".", "problems")
 githubPath = "/problems/"
