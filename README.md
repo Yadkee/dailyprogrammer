@@ -2,6 +2,9 @@
 
  POST LINK - PROBLEM CODE
 
+  * [[2018-04-11]](https://www.reddit.com/r/dailyprogrammer/comments/8bh8dh/20180411_challenge_356_intermediate_goldbachs/
+ "Problem post at reddit") - [Challenge #356 [Intermediate] Goldbach's Weak Conjecture](/problems/[2018-04-11]%20Challenge%20%23356%20[Intermediate]%20Goldbach's%20Weak%20Conjecture.py)
+
   * [[2018-03-28]](https://www.reddit.com/r/dailyprogrammer/comments/87rz8c/20180328_challenge_355_intermediate_possible/
  "Problem post at reddit") - [Challenge #355 [Intermediate] Possible Number of Pies](/problems/[2018-03-28]%20Challenge%20%23355%20[Intermediate]%20Possible%20Number%20of%20Pies.py)
 
