@@ -1,31 +1,26 @@
 #! python3
 # https://www.reddit.com/r/dailyprogrammer/comments/8bh8dh/20180411_challenge_356_intermediate_goldbachs/
 """It is not a short solution but an optimized one"""
-from itertools import count
+from math import sqrt
 
 
 def sixn(m):
     """All primes are of the form 6n + 1 or 6n - 1"""
-    yield 2
-    yield 3
-    for i in count(1):
-        x = 6 * i + 1
-        if x - 2 >= m:
-            break
-        yield x - 2
-        if x >= m:
-            break
-        yield x
+    yield from range(2, min(m, 3))
+    for i in range(6, m - 1, 6):
+        yield from (i - 1, i + 1)
+    if m > 8 and i + 5 < m:
+        yield i + 5
 
 
 def primes_until(m):
     """(https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)"""
     sieve = [True] * m
-    for i in sixn(m):
+    for i in sixn(int(sqrt(m)) + 1):
         if sieve[i]:
-            yield i
             for mult in range(i * i, m, i):
                 sieve[mult] = False
+    yield from (i for i in sixn(m) if sieve[i])
 
 
 def solve(inp):
