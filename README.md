@@ -2,6 +2,9 @@
 
  POST LINK - PROBLEM CODE
 
+  * [[2018-05-16]](https://www.reddit.com/r/dailyprogrammer/comments/8jvbzg/20180516_challenge_361_intermediate_elsiefour/
+ "Problem post at reddit") - [Challenge #361 [Intermediate] ElsieFour low-tech cipher](/problems/[2018-05-16]%20Challenge%20%23361%20[Intermediate]%20ElsieFour%20low-tech%20cipher.py)
+
   * [[2018-04-11]](https://www.reddit.com/r/dailyprogrammer/comments/8bh8dh/20180411_challenge_356_intermediate_goldbachs/
  "Problem post at reddit") - [Challenge #356 [Intermediate] Goldbach's Weak Conjecture](/problems/[2018-04-11]%20Challenge%20%23356%20[Intermediate]%20Goldbach's%20Weak%20Conjecture.py)
 
