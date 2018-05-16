@@ -6,7 +6,7 @@ from math import sqrt
 
 def sixn(m):
     """All primes are of the form 6n + 1 or 6n - 1"""
-    yield from range(2, min(m, 3))
+    yield from range(2, min(m, 4))
     for i in range(6, m - 1, 6):
         yield from (i - 1, i + 1)
     if m > 8 and i + 5 < m:
