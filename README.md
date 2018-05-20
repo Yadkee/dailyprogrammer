@@ -2,6 +2,9 @@
 
  POST LINK - PROBLEM CODE
 
+  * [[2018-05-18]](https://www.reddit.com/r/dailyprogrammer/comments/8ked11/20180518_challenge_361_hard_sudoku_knights_tour/
+ "Problem post at reddit") - [Challenge #361 [Hard] Sudoku knight's tour](/problems/[2018-05-18]%20Challenge%20%23361%20[Hard]%20Sudoku%20knight's%20tour.py)
+
   * [[2018-05-16]](https://www.reddit.com/r/dailyprogrammer/comments/8jvbzg/20180516_challenge_361_intermediate_elsiefour/
  "Problem post at reddit") - [Challenge #361 [Intermediate] ElsieFour low-tech cipher](/problems/[2018-05-16]%20Challenge%20%23361%20[Intermediate]%20ElsieFour%20low-tech%20cipher.py)
 
