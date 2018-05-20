@@ -12,6 +12,8 @@ problemPath = join(".", "problems")
 githubPath = "/problems/"
 problems = tuple(sorted(listdir(path=problemPath), reverse=True))
 for path in problems:
+    if "." not in path:
+        continue
     pText = []
     date, name = path.rstrip(".py").split(" ", 1)
     relPath = githubPath + path.replace(" ", "%20").replace("#", "%23")
