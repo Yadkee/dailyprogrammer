@@ -48,7 +48,7 @@ def near(sudoku, n):
             sudoku[i:i + 3] + sudoku[i + 9:i + 12] + sudoku[i + 18:i + 21])
 
 
-def islegit(sudoku):
+def is_legit(sudoku):
     for a, i in enumerate(sudoku):
         if i == 0 or near(sudoku, a).count(i) <= 3:
             continue
@@ -56,9 +56,9 @@ def islegit(sudoku):
     return True
 
 
-def tostring(sudoku):
+def to_string(sudoku):
     return "".join(str(i) for i in sudoku)
 
 
-def fromstring(sudoku):
+def from_string(sudoku):
     return bytearray(int(i) for i in sudoku)

@@ -1,13 +1,13 @@
 #! python3
 # https://www.reddit.com/r/dailyprogrammer/comments/8ked11/20180518_challenge_361_hard_sudoku_knights_tour/
-from modules.sudoku import fromstring, solve, tostring, islegit
+from modules.sudoku import from_string, solve, to_string, is_legit
 
 _ = """
 000009700090000086000087009009000870000870090080900000070008900008790000900000000
 000009700090000086000087009009000860000870090086900007070058900008790050900006000
 800069700097000086060087009009000860600870090085900007070058900008790050900006000
 """
-BANNED = [fromstring(i) for i in _.split()]
+BANNED = [from_string(i) for i in _.split()]
 # This boards are all unsolvable and produce so much lag
 
 
@@ -51,13 +51,8 @@ def recursive(iPos, moves, steps):
     return
 
 
-out = []
 score = "9999999"  # We know that this is the minimum possible
-moves = [10, 29, 48, 67, 60, 43, 26]  # The shorter the more it takes
-# Also if you delete too many values you will end up with a lot of different
-#  symmetric solutions. And you do not want that. You can see the 8 symmetries
-#  clicking here -> https://pastebin.com/EBgVwhDN
-moves = [10, 29]
+moves = [10, 29]  # The shorter the more it takes
 
 while len(score) != 81:
     print(score)
@@ -69,7 +64,7 @@ while len(score) != 81:
             board = bytearray(81)
             for a, i in enumerate(path):
                 board[i] = int(score[a])
-            if not islegit(board):
+            if not is_legit(board):
                 continue
             if not can_travel(path[-1], path[:-1]):
                 continue
@@ -78,7 +73,8 @@ while len(score) != 81:
             try:
                 solved = solve(board)
             except KeyboardInterrupt:  # If it takes more than 3 secs press it.
-                out.append(tostring(board))
+                print("SKIPPED")
+                print(board)
                 solved = False
             if not solved:
                 continue
@@ -96,6 +92,7 @@ while len(score) != 81:
     else:
         raise Exception("Ehm... This should not have occured")
 
-out.extend(["SCORE:", score, "SUDOKU:", tostring(solved), "PATH:", moves])
-with open("result.txt", "w") as f:
-    f.write("\n".join(map(str, out)))
+print("RESULT:")
+print(score)
+print(moves)
+print(to_string(board))
