@@ -30,7 +30,7 @@
  "Problem post at reddit") - [Challenge #353 [Hard] Create a Simple Stochastic Computing Machine](/problems/[2018-03-09]%20Challenge%20%23353%20[Hard]%20Create%20a%20Simple%20Stochastic%20Computing%20Machine.py)
 
   * [[2018-03-07]](https://www.reddit.com/r/dailyprogrammer/comments/82pt3h/20180307_challenge_353_intermediate/
- "Problem post at reddit") - [Challenge #353 [Intermediate]](/problems/[2018-03-07]%20Challenge%20%23353%20[Intermediate].py)
+ "Problem post at reddit") - [Challenge #353 [Intermediate] Pancake Sorting Problem](/problems/[2018-03-07]%20Challenge%20%23353%20[Intermediate]%20Pancake%20Sorting%20Problem.py)
 
   * [[2018-03-05]](https://www.reddit.com/r/dailyprogrammer/comments/826coe/20180305_challenge_353_easy_closest_string/
  "Problem post at reddit") - [Challenge #353 [Easy] Closest String](/problems/[2018-03-05]%20Challenge%20%23353%20[Easy]%20Closest%20String.py)
